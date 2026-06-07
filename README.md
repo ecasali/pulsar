@@ -1,19 +1,14 @@
 # Pulsar
 
-**Applied intelligence workflows for market research and executive briefing.**
+**Applied intelligence workflows **
 
-Pulsar is a personal repository that brings together a small set of AI-driven projects built around one core idea: helping decision-makers move from raw information to structured judgment faster and with more clarity.
-
-Rather than presenting isolated technical experiments, this repository groups related systems under a common thesis: practical intelligence tools should reduce noise, surface signal, and make reasoning more explicit.
+Pulsar is a personal repository that brings together a small set of AI-driven projects built around one core idea: helping decision-makers move from raw information to structured judgment faster and with more clarity. Rather than presenting isolated technical experiments, this repository groups related systems under a common thesis: practical intelligence tools should reduce noise, surface signal, and make reasoning more explicit.
 
 ***
 
 ## 👤 About me
 
 I am Emanuele Casali, an operations and technology leader with a background in large-scale execution, analytical decision-making, and business transformation.
-
-My professional path has been shaped by building and running complex systems at scale — from co-founding a small business to leading major operations and technology environments. Alongside that operating background, I have developed a growing interest in how AI can support better decisions, better synthesis, and more disciplined execution.
-
 This repository is not meant to be a collection of generic AI demos. It is a compact portfolio of weekend projects that explore how structured AI workflows can support research, briefing, and decision-making in information-heavy environments.
 
 ***
@@ -35,7 +30,7 @@ In simple terms, this repository is the home for a small family of projects focu
 
 A key part of this repository is also personal learning.
 
-Over the last few years, I have been intentionally building a stronger foundation in AI, machine learning, and their practical use in business and operations. As reflected in my background, this has included structured learning across business, machine learning, and applied AI topics.
+Over the last year, I have been intentionally building a stronger foundation in AI, machine learning, and their practical use in business and operations. As reflected in my background, this has included structured learning across business, machine learning, and applied AI topics.
 
 Selected elements of that journey include:
 
