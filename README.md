@@ -1,7 +1,5 @@
 # Pulsar
 
-**Applied intelligence workflows **
-
 Pulsar is a personal repository that brings together a small set of AI-driven projects built around one core idea: helping decision-makers move from raw information to structured judgment faster and with more clarity. Rather than presenting isolated technical experiments, this repository groups related systems under a common thesis: practical intelligence tools should reduce noise, surface signal, and make reasoning more explicit.
 
 ***
