@@ -1,6 +1,6 @@
 # Pulsar
 
-Pulsar is a personal repository that brings together a small set of AI-driven projects built around one core idea: helping decision-makers move from raw information to structured judgment faster and with more clarity. Rather than presenting isolated technical experiments, this repository groups related systems under a common thesis: practical intelligence tools should reduce noise, surface signal, and make reasoning more explicit.
+Pulsar is a personal repository that brings together a small set of AI-driven weekend projects built around one core idea: helping decision-makers move from raw information to structured judgment faster and with more clarity.
 
 ***
 
@@ -21,36 +21,6 @@ The aim of Pulsar is to document and showcase practical systems for:
 - presenting that work in a professional and inspectable format.
 
 In simple terms, this repository is the home for a small family of projects focused on **decision intelligence**.
-
-***
-
-## 🧠 AI learning journey
-
-A key part of this repository is also personal learning.
-
-Over the last year, I have been intentionally building a stronger foundation in AI, machine learning, and their practical use in business and operations. As reflected in my background, this has included structured learning across business, machine learning, and applied AI topics.
-
-Selected elements of that journey include:
-
-- **AI for Business** — The Wharton School, University of Pennsylvania.
-- **Machine Learning Specialization** — Stanford / DeepLearning.AI.
-- **Deep Learning Specialization** — DeepLearning.AI.
-- **Python Specialization** — University of Michigan.
-
-The goal has not been academic study for its own sake, but developing enough technical and conceptual depth to engage with AI in a practical, decision-oriented way.
-
-***
-
-## 📚 Books shaping this work
-
-A few books have been especially useful in shaping the way I think about these projects:
-
-- **Why Machines Learn** — for a deeper understanding of why modern machine learning works.
-- **Nexus** — for thinking about systems, networks, and how intelligence connects across structures.
-- **Prediction Machines** — for framing AI in economic and decision-making terms.
-- **The AI Driven Leader** — for translating AI concepts into leadership and operating practice.
-
-Together, these works have helped shape the perspective behind Pulsar: AI is most valuable when it improves judgment, structure, and action rather than just generating output.
 
 ***
 
@@ -129,7 +99,6 @@ pulsar/
 ├── README.md
 ├── warren/
 ├── charlie/
-└── assets/
 ```
 
 Each project may include code, notes, screenshots, sample outputs, and supporting documentation.
